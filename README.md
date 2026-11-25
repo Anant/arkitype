@@ -51,7 +51,7 @@ The same `.devcontainer/devcontainer.json` also works in GitHub Codespaces, and 
 This repo is also a Claude Code plugin marketplace. From any Claude Code session:
 
 ```
-/plugin marketplace add xingh/arkitype
+/plugin marketplace add Anant/arkitype
 /plugin install arkitype@arkitype
 ```
 
