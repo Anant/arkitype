@@ -3,7 +3,7 @@
 Arkitype workflows packaged as a Claude Code plugin. Install from the marketplace at the repo root:
 
 ```
-/plugin marketplace add xingh/arkitype
+/plugin marketplace add Anant/arkitype
 /plugin install arkitype@arkitype
 ```
 
