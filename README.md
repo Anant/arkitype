@@ -77,3 +77,7 @@ This structure separates lasting knowledge, architectural decisions, active oper
 - [03-SOFTWARE](https://tekt.md/03-software/) - Where, how, and what processes are executed, when, for whom. Any changes to how workflows are managed, should be defined here. 
 - [04-INTERFACE](https://tekt.md/04-interface/) - Where, how, and what type of interfaces for whom. 
 
+
+## History
+
+Arkitype originated in Rahul Singh's personal GitHub repository and now lives at Anant.
